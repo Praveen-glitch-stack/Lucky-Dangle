@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lucky Dangle</string>
+    <string name="btn_grant_permission">Grant Overlay Permission</string>
+    <string name="btn_start">Start Floating Charm</string>
+    <string name="btn_stop">Stop Floating Charm</string>
+    <string name="status_permission_needed">Permission needed to show the charm over other apps</string>
+    <string name="status_ready">Ready to start</string>
+    <string name="status_running">Charm is floating</string>
+</resources>
